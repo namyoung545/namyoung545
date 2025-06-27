@@ -1,4 +1,12 @@
 ## Hi there 👋
+## 😄 Nice to meet you. My name is namyoung.
+
+## 🌱 I.m currently learning **HTML**, **CSS**, **JAVASCRIPT**, **JAVA**, **PYTHON**, **C++**, **JSP**, and **MYSQL**.
+
+## 👯 팀프로젝트(학원)
+1 - 
+
+📫 How to reach me: namyoung545@gmail.com
 
 <!--
 **namyoung545/namyoung545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
