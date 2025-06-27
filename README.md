@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 😄 Nice to meet you. My name is namyoung.
 
 🌱 I'm currently learning **HTML**, **CSS**, **JAVASCRIPT**, **JAVA**, **PYTHON**, **C++**, **JSP**, and **MYSQL**.
