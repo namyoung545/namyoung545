@@ -18,7 +18,7 @@
 
 <br>
 📫 How to reach me: namyoung545@gmail.com
-<br>
+<br><br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namyoung545&theme=default" />
