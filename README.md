@@ -18,13 +18,14 @@
 
 📫 How to reach me: namyoung545@gmail.com
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namyoung545&layout=compact&langs_count=10&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![NamYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=namyoung545&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namyoung545&layout=compact&theme=default" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namyoung545&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api?username=namyoung545&show_icons=true&theme=default" />
 </div>
 
