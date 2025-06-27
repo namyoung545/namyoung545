@@ -16,7 +16,6 @@
    🔗 [green_team_electricalHazardMonitor](https://github.com/namyoung545/green_team_electricalHazardMonitor)  
    ⚡ 전기 재해 및 시설 관리
 
-<br>
 📫 How to reach me: namyoung545@gmail.com
 <br><br>
 
