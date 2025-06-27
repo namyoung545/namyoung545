@@ -1,7 +1,7 @@
 ## 👋 Hi there
 😄 Nice to meet you. My name is namyoung.
 
-🌱 I'm currently learning **HTML**, **CSS**, **JAVASCRIPT**, **JAVA**, **PYTHON**, **C++**, **JSP**, and **MYSQL**.
+🌱 I'm currently learning **HTML**, **CSS**, **JAVASCRIPT**, **JAVA**, **PYTHON**, **JSP**, **C++**, and **MYSQL**.
 
 👯 팀프로젝트(학원)
 1. **Java**를 활용한 AS 기사 스케줄 관리 프로젝트  
