@@ -4,12 +4,17 @@
 🌱 I'm currently learning ***HTML***, ***CSS***, ***JAVASCRIPT***, ***JAVA***, ***PYTHON***, ***C++***, ***JSP***, and ***MYSQL***.
 
 👯 팀프로젝트(학원)
-  1 - Java를 활용한 AS기사 스케쥴 관리 프로젝트 [green_team_schedule](https://github.com/namyoung545/green_team_schedule)
-    ⚙ 신고 관리
-  2 - Python Flask를 활용한 풍력 발전량 자동 예측 AI 프로젝트 [green_team_wind](https://github.com/namyoung545/green_team_wind)
-    💨 풍력 발전
-  3 - spring boot를 활용한 전기재해 모니터링 및 노후시설 AS 신고 관리 프로젝트 [green_team_electricalHazardMonitor](https://github.com/namyoung545/green_team_electricalHazardMonitor)
-    ⚡ 전기 재해
+1. **Java**를 활용한 AS 기사 스케줄 관리 프로젝트  
+   🔗 [green_team_schedule](https://github.com/namyoung545/green_team_schedule)  
+   ⚙️ 신고 관리 시스템
+
+2. **Python Flask**를 활용한 풍력 발전량 자동 예측 AI 프로젝트  
+   🔗 [green_team_wind](https://github.com/namyoung545/green_team_wind)  
+   💨 풍력 발전 예측
+
+3. **Spring Boot**를 활용한 전기재해 모니터링 및 노후시설 AS 신고 관리 프로젝트  
+   🔗 [green_team_electricalHazardMonitor](https://github.com/namyoung545/green_team_electricalHazardMonitor)  
+   ⚡ 전기 재해 및 시설 관리
 
 📫 How to reach me: namyoung545@gmail.com
 
