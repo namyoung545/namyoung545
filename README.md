@@ -13,7 +13,7 @@
    💨 풍력 발전 예측
 
 3. **Spring Boot**를 활용한 전기재해 모니터링 및 노후시설 AS 신고 관리 프로젝트  
-   🔗 [green_team_electricalHazardMonitor](https://github.com/namyoung545/green_team_electricalHazardMonitor)  
+   🔗 [green_team_electrical](https://github.com/namyoung545/green_team_electrical)  
    ⚡ 전기 재해 및 시설 관리
 
 📫 How to reach me: namyoung545@gmail.com
