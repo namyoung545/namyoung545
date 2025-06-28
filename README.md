@@ -1,5 +1,5 @@
 ## 👋 Hi there
-😄 Nice to meet you. My name is **namyoung**.
+😄 Nice to meet you. My name is **NamYoung**.
 
 🌱 I'm currently learning **HTML**, **CSS**, **JAVASCRIPT**, **JAVA**, **PYTHON**, **JSP**, **C++**, and **MYSQL**.
 
